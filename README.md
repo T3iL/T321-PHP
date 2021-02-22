@@ -64,7 +64,7 @@ Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (in
 ```
 
 ### --------Konto FTP
-[FTP](/kontoFTP.png)
+![FTP](/kontoFTP.png)
 
 ### --------Repositiories
 
