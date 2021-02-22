@@ -69,7 +69,7 @@ ZAD32110.
 Przygotuj treść gry RPG w pliku txt
 
 [1,0,2]:Za górami za lasami był wielki las. W tym lesie spotykasz różne postaci.
-[2,0,0]:Spotykasz trolla. Co robisz
+[2,0,3]:Spotykasz trolla. Co robisz?
 [3,1,4]:Walczysz z nim
 [3,2,5]:Uciekasz
 [3,3,9]:Wdajesz się w rozmowę
