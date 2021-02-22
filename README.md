@@ -63,6 +63,9 @@ ZADT32109.
 Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (input/textarea/select/radio/checkbox/file)
 ```
 
+### --------Konto FTP
+[FTP](/kontoFTP)
+
 ### --------Repositiories
 
 https://www.php.net/manual
