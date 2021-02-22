@@ -64,6 +64,9 @@ Wyświetl na stronie treść tekstu zapisaną w pliku rtf
 
 ZADT32109.
 Przygotuj formularz rejestracyjny i wypisz na stronie wysłane z niego dane (input/textarea/select/radio/checkbox/file)
+
+ZAD32110.
+Przygotuj treść gry RPG w pliku txt
 ```
 
 ### --------Konto FTP
