@@ -12,7 +12,7 @@
 ZADT32101.
 Przygotuj tablicę uzytkowników w PHP pobranych z 
 https://jsonplaceholder.typicode.com/users 
-i wypisz ją na ekranie (zamień rekordy JSON na tablicę PHP)
+i wypisz ją na ekranie (zamień rekordy JSON na tablicę PHP) - name,username,email
 
 ZADT32102.
 Posortuj tablicę $persons z poniższych danych: 
