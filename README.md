@@ -30,10 +30,11 @@ Przygotuj aplikację wyświetlającą inne pozdrowienie w zależności od podane
 ZADT32104.
 Wypisz sformatowane dane z zadania 1 w postaci tabeli HTML zawierającej:
 przykład
+```
 |Imię: | Leanne Graham |
 |email: | Sincere@april.biz |
 |addres: | Kulas Light, Apt. 556, Gwenborough, 92998-3874 |
-
+```
 ZADT32104. 
 Przygotuj szablon witryny z menu składającej się czterech podstron 
 (HOME,SERVICES,ABOUT,CONTACT) 
