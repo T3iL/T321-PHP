@@ -71,6 +71,36 @@ Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (in
 [PHP: Reading the "clean" text from RTF](https://webcheatsheet.com/php/reading_the_clean_text_from_rtf.php)
 [STACKOVERFLOW - read word document in php](https://stackoverflow.com/questions/10646445/read-word-document-in-php)
 
+```php
+function read_docx($filename){
+
+    $striped_content = '';
+    $content = '';
+
+    if(!$filename || !file_exists($filename)) return false;
+
+    $zip = zip_open($filename);
+    if (!$zip || is_numeric($zip)) return false;
+
+    while ($zip_entry = zip_read($zip)) {
+
+        if (zip_entry_open($zip, $zip_entry) == FALSE) continue;
+
+        if (zip_entry_name($zip_entry) != "word/document.xml") continue;
+
+        $content .= zip_entry_read($zip_entry, zip_entry_filesize($zip_entry));
+
+        zip_entry_close($zip_entry);
+    }
+    zip_close($zip);      
+    $content = str_replace('</w:r></w:p></w:tc><w:tc>', " ", $content);
+    $content = str_replace('</w:r></w:p>', "\r\n", $content);
+    $striped_content = strip_tags($content);
+
+    return $striped_content;
+}
+```
+
 ### --------Repositiories
 
 https://www.php.net/manual
