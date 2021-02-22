@@ -69,6 +69,7 @@ Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (in
 12Technik!"
 
 [PHP: Reading the "clean" text from RTF](https://webcheatsheet.com/php/reading_the_clean_text_from_rtf.php)
+
 [STACKOVERFLOW - read word document in php](https://stackoverflow.com/questions/10646445/read-word-document-in-php)
 
 ```php
