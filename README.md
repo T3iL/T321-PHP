@@ -10,7 +10,9 @@
 
 ```
 ZADT32101.
-Przygotuj tablicę uzytkowników w PHP na podstawie https://jsonplaceholder.typicode.com/users i wypisz ją na ekranie (zamień rekordy JSON na tablicę PHP)
+Przygotuj tablicę uzytkowników w PHP pobranych z 
+https://jsonplaceholder.typicode.com/users 
+i wypisz ją na ekranie (zamień rekordy JSON na tablicę PHP)
 
 ZADT32102.
 Posortuj tablicę $persons z poniższych danych: 
@@ -47,6 +49,9 @@ Zmień CSS w elemencie menu na podstawie URL strony (zmiana tła)
 
 ZADT32106.
 Przygotuj funkcję zamieniającą kilometry na mile
+
+ZADT32107.
+Zapamiętaj poprzednio odwiedzona strone z zad 4 za pomocą cookies i/lub sesji
 
 ```
 
