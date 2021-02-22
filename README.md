@@ -40,7 +40,12 @@ przykład
 |email:  | Sincere@april.biz                              |
 |addres: | Kulas Light, Apt. 556, Gwenborough, 92998-3874 |
 ```
-ZADT32104. 
+ZADT32105.
+Połącz się ze zdalnym kontem FTP (poniżej uprawnienia), 
+utwórz katalog nazwany własnym imieniem 
+i prześlij tam wszystkie wykonane ćwiczenia
+
+ZADT32106. 
 Przygotuj szablon witryny z menu składającej się czterech podstron 
 (HOME,SERVICES,ABOUT,CONTACT) 
 korzystających z tego samego nagłówka i stopki 
@@ -48,13 +53,13 @@ korzystających z tego samego nagłówka i stopki
 ZADT32105.
 Zmień CSS w elemencie menu na podstawie URL strony (zmiana tła)
 
-ZADT32106.
+ZADT32107.
 Przygotuj funkcję zamieniającą kilometry na mile
 
-ZADT32107.
+ZADT32108.
 Zapamiętaj poprzednio odwiedzona strone z zad 4 za pomocą cookies i/lub sesji
 
-ZADT32108.
+ZADT32109.
 Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (input/textarea/select/radio/checkbox/file)
 ```
 
