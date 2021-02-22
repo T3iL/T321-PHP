@@ -31,6 +31,7 @@ ZADT32104.
 Wypisz sformatowane dane z zadania 1 w postaci tabeli HTML zawierającej:
 przykład
 ```
+|------|------------|
 |Imię: | Leanne Graham |
 |email: | Sincere@april.biz |
 |addres: | Kulas Light, Apt. 556, Gwenborough, 92998-3874 |
