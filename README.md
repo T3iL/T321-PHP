@@ -1,7 +1,7 @@
 # T321-PHP
 
 1. PHP recap
-2. include 'file_name'; include_once 'file_name';
+2. INCLUDE/REQUIRE include 'file_name'; include_once 'file_name'; [info](https://www.w3schools.com/php/php_includes.asp)
 3. 
 
 ### --------Repositiories
