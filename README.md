@@ -60,7 +60,10 @@ ZADT32108.
 Zapamiętaj poprzednio odwiedzona strone z zad 4 za pomocą cookies i/lub sesji
 
 ZADT32109.
-Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (input/textarea/select/radio/checkbox/file)
+Wyświetl na stronie treść tekstu zapisaną w pliku rtf
+
+ZADT32109.
+Przygotuj formularz rejestracyjny i wypisz na stronie wysłane z niego dane (input/textarea/select/radio/checkbox/file)
 ```
 
 ### --------Konto FTP
