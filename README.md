@@ -15,7 +15,7 @@ https://jsonplaceholder.typicode.com/users
 i wypisz ją na ekranie (zamień rekordy JSON na tablicę PHP) - name,username,email
 
 ZADT32102.
-Posortuj tablicę $persons z poniższych danych: 
+Posortuj tablicę $persons utworzoną z poniższych danych: 
 
 Krzysztof":PL
 John":US
