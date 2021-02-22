@@ -4,6 +4,13 @@
 2. INCLUDE/REQUIRE include 'file_name'; include_once 'file_name'; [info](https://www.w3schools.com/php/php_includes.asp)
 3. 
 
+```
+ZADT32101. 
+Przygotuj szablon witryny z menu składającej się czterech podstron 
+(HOME,SERVICES,ABOUT,CONTACT) 
+korzystających z tego samego nagłówka i stopki 
+```
+
 ### --------Repositiories
 
 https://www.php.net/manual
