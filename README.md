@@ -66,6 +66,8 @@ Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (in
 ### --------Konto FTP
 ![FTP](/kontoFTP.PNG)
 
+12Technik!"
+
 ### --------Repositiories
 
 https://www.php.net/manual
