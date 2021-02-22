@@ -6,7 +6,7 @@
 4. Zmienne globalne ARRAYS
 5. EXPLODE
 6. COUNT
-7. IF, SWITCH, FOR, WHILE
+7. IF, SWITCH, FOR, FOREACH, WHILE
 
 ```
 ZADT32101.
@@ -26,6 +26,13 @@ a następnie osortuj wg elementów i wg kluczy
 
 ZADT32103. 
 Przygotuj aplikację wyświetlającą inne pozdrowienie w zależności od podanej pory dnia (switch)
+
+ZADT32104.
+Wypisz sformatowane dane z zadania 1 w postaci tabeli HTML zawierającej:
+przykład
+|Imię: | Leanne Graham |
+|email: | Sincere@april.biz |
+|addres: | Kulas Light, Apt. 556, Gwenborough, 92998-3874 |
 
 ZADT32104. 
 Przygotuj szablon witryny z menu składającej się czterech podstron 
