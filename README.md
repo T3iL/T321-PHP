@@ -32,6 +32,7 @@ Przygotuj aplikację wyświetlającą inne pozdrowienie w zależności od podane
 ZADT32104.
 Wypisz sformatowane dane z zadania 1 w postaci tabeli HTML zawierającej:
 przykład
+
 ```
 
 |Imię:   | Leanne Graham                                  |
@@ -53,6 +54,8 @@ Przygotuj funkcję zamieniającą kilometry na mile
 ZADT32107.
 Zapamiętaj poprzednio odwiedzona strone z zad 4 za pomocą cookies i/lub sesji
 
+ZADT32108.
+Przygotuj formularz rejestracyjny i wypisz na stronie wysłąne z niego dane (input/textarea/select/radio/checkbox/file)
 ```
 
 ### --------Repositiories
