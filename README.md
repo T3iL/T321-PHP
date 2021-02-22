@@ -6,7 +6,7 @@
 4. Zmienne globalne ARRAYS
 5. EXPLODE
 6. COUNT
-7. 
+7. IF, SWITCH, FOR, WHILE
 
 ```
 ZADT32101.
@@ -22,17 +22,20 @@ Mary":GB
 Santiago":AR
 Enrique:ES
 
-wg elementów i wg kluczy
+a następnie osortuj wg elementów i wg kluczy
 
-ZADT32102. 
+ZADT32103. 
+Przygotuj aplikację wyświetlającą inne pozdrowienie w zależności od podanej pory dnia (switch)
+
+ZADT32104. 
 Przygotuj szablon witryny z menu składającej się czterech podstron 
 (HOME,SERVICES,ABOUT,CONTACT) 
 korzystających z tego samego nagłówka i stopki 
 
-ZADT32103.
+ZADT32105.
 Zmień CSS w elemencie menu na podstawie URL strony (zmiana tła)
 
-ZADT32104.
+ZADT32106.
 
 ```
 
