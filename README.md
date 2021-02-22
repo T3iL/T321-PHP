@@ -46,6 +46,7 @@ ZADT32105.
 Zmień CSS w elemencie menu na podstawie URL strony (zmiana tła)
 
 ZADT32106.
+Przygotuj funkcję zamieniającą kilometry na mile
 
 ```
 
