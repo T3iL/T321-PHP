@@ -68,29 +68,30 @@ Przygotuj formularz rejestracyjny i wypisz na stronie wysłane z niego dane (inp
 ZAD32110.
 Przygotuj treść gry RPG w pliku txt
 
-[1,0,2]:Za górami za lasami był wielki las. W tym lesie spotykasz różne postaci.
-[2,0,3]:Spotykasz trolla. Co robisz?
-[3,1,4]:Walczysz z nim
-[3,2,5]:Uciekasz
-[3,3,9]:Wdajesz się w rozmowę
-[4,0,0]:Wybierz broń
-[4,1,6]:Miecz
-[4,2,7]:Łuk
-[4,3,8]:Wulgaryzmy
-[5,0,101]:Wpadasz do bagna
-[6,0,101]:Zapomniałeś miecza
-[7,0,101]:Nie masz juz strzal
-[8,0,200]:Pokonujesz trolla
-[9,0,10]:Zaczynacie rozmowe:
-[10,1,102]:Mówisz mu że jesteś smaczny
-[10,2,102]:Pytasz o drogę
-[10,3,103]:Grozisz mu że wrócisz z kumplami
-[100,0,1]:Koniec gry (giniesz w męczarniach)
-[101,0,1]:Giniesz w bagnie
-[101,0,1]:Giniesz zjedzony
-[102,0,200]:Wskazuje ci bezpieczną drogę i odchodzisz
-[103,0,100]:Woła swoich kumpli i to już ne kończy się dobrze
-[200,0,0]:Gratulacje, pokonałeś wszystkich przeciwników!
+[0,0,1]Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia asperiores totam molestiae omnis? Libero tempore, rerum excepturi ipsa rem fuga culpa molestiae, totam eius enim, error placeat alias labore ipsum delectus! Modi assumenda, culpa ex perferendis illum, explicabo ducimus nihil quas earum sint nulla obcaecati atque in eaque maiores 
+[1,0,2]Za górami za lasami był wielki las. W tym lesie spotykasz różne postaci.
+[2,0,0]Spotykasz trolla. Co robisz
+[2,1,4]Walczysz z nim
+[2,2,5]Uciekasz
+[2,3,9]Wdajesz się w rozmowę
+[4,0,0]Wybierz broń
+[4,1,6]Miecz
+[4,2,7]Łuk
+[4,3,8]Wulgaryzmy
+[5,0,101]Wpadasz do bagna
+[6,0,105]Zapomniałeś miecza
+[7,0,105]Nie masz juz strzal
+[8,0,200]Pokonujesz trolla
+[9,0,10]Zaczynacie rozmowe:
+[10,1,105]Mówisz mu że jesteś smaczny
+[10,2,102]Pytasz o drogę
+[10,3,103]Grozisz mu że wrócisz z kumplami
+[100,0,1]Koniec gry (giniesz w męczarniach)
+[101,0,1]Giniesz w bagnie
+[102,0,200]Wskazuje ci bezpieczną drogę i odchodzisz
+[103,0,100]Woła swoich kumpli i to już ne kończy się dobrze
+[105,0,0]Giniesz zjedzony
+[200,0,0]Gratulacje, pokonałeś wszystkich przeciwników!
 ```
 
 ### --------Konto FTP
