@@ -24,7 +24,7 @@ Mary":GB
 Santiago":AR
 Enrique:ES
 
-a następnie osortuj wg elementów i wg kluczy
+a następnie posortuj wg elementów i wg kluczy
 
 ZADT32103. 
 Przygotuj aplikację wyświetlającą inne pozdrowienie w zależności od podanej pory dnia (switch)
