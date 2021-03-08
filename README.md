@@ -99,7 +99,7 @@ Przygotuj treść gry RPG w pliku txt
 
 12Technik!"
 
-Strony dostępne pod adresem http://animateria.pl/uczentl/<imie-ucznia>
+Strony dostępne pod adresem http://animateria.pl/uczentl/imie-ucznia
 
 [PHP: Reading the "clean" text from RTF](https://webcheatsheet.com/php/reading_the_clean_text_from_rtf.php)
 
